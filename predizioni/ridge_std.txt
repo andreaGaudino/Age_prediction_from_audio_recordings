@@ -1,0 +1,2 @@
+Best params: <bound method BaseEstimator.get_params of Ridge(alpha=5)>
+2025-01-28 23:21:05
